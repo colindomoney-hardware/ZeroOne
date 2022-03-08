@@ -8,7 +8,7 @@ enum-compat==0.0.2
 future==0.16.0
 getch==1.0
 getkey==0.6.5
-httpie==0.9.9
+httpie==3.1.0
 idna==2.6
 iso8601==0.1.12
 netifaces==0.10.6
