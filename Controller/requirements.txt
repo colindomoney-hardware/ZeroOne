@@ -1,7 +1,7 @@
 appdirs==1.4.3
 attrs==17.4.0
 BlinkStick==1.1.8
-certifi==2018.1.18
+certifi==2022.12.7
 chardet==3.0.4
 docopt==0.6.2
 enum-compat==0.0.2
